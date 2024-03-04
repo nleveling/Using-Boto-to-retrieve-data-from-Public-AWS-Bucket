@@ -1,5 +1,5 @@
 # Using-Boto-to-retrieve-data-from-Public-AWS-Bucket
-This Python script retrieves an AOI geopackage from the Public National Bathymetry Source AWS Bucket.
+This Python script (TopoBoto.py) retrieves an AOI geopackage from the Public National Bathymetry Source AWS Bucket.
 
 The National Bathymetric Source (NBS) project creates and maintains high-resolution bathymetry composed of the best available data. This project enables the creation of next-generation nautical charts while also providing support for modeling, industry, science, regulation, and public curiosity.
 
